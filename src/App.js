@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import bg from './assets/img/bg1.jpg';
 
 function App() {
   return (
@@ -7,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <body>
-        POTA EDI WAW
+        <h1>JOBZILLA!</h1>
         </body>
       </header>
     </div>
