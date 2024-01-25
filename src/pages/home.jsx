@@ -1,5 +1,5 @@
 import React from 'react'
-import me from '../assets/img/jobzz.png';
+import me from '../assets/img/jobz123.png';
 
 function home() {
   return (
