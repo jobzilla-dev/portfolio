@@ -20,9 +20,9 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  /* justify-content: center; */
+  /* font-size: calc(10px + 2vmin); */
+  /* color: white; */
 }
 
 .App-link {
@@ -31,10 +31,29 @@
 
 h1 {
   color: #292929;
+  font-size: 88px !important;
+  text-align: center;
 }
 
 .jobz-photo {
   height: 800px;
+}
+
+.photooo {
+  height: 100vh;
+  display: flex;
+  align-items: flex-end;
+}
+
+.land {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.home {
+  width: -webkit-fill-available;
 }
 
 @keyframes App-logo-spin {
