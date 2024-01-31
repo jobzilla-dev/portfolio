@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.0e7442ac.css",
-    "main.js": "/static/js/main.7f12f77e.js",
+    "main.css": "/static/css/main.de01fab1.css",
+    "main.js": "/static/js/main.f622b102.js",
     "static/js/787.d39f8387.chunk.js": "/static/js/787.d39f8387.chunk.js",
+    "static/media/Karantina-Regular.ttf": "/static/media/Karantina-Regular.9844915e3fa387c180fe.ttf",
     "static/media/jobz-w.png": "/static/media/jobz-w.bf14240bb9676367fdc7.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.0e7442ac.css.map": "/static/css/main.0e7442ac.css.map",
-    "main.7f12f77e.js.map": "/static/js/main.7f12f77e.js.map",
+    "main.de01fab1.css.map": "/static/css/main.de01fab1.css.map",
+    "main.f622b102.js.map": "/static/js/main.f622b102.js.map",
     "787.d39f8387.chunk.js.map": "/static/js/787.d39f8387.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e7442ac.css",
-    "static/js/main.7f12f77e.js"
+    "static/css/main.de01fab1.css",
+    "static/js/main.f622b102.js"
   ]
 }
