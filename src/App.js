@@ -7,12 +7,14 @@ import Home from './pages/home';
 
 function App() {
   return (
+    <div className='container1'>
     <div className="App">
       <header className="App-header">
 
         <Home/>
 
       </header>
+    </div>
     </div>
   );
 }
