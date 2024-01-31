@@ -53,7 +53,7 @@ function Home() {
               {/* <div className="photooo"><img src={me} className="jobz-photo" alt="logo" /></div> */}
               <div className="land-txt" style={{ textAlign: 'start' }}>
                 <h1>JOBZ</h1><br></br>
-                <h2 style={{ color: 'orange', marginTop: '-37px', fontSize:'60px'}}>WEB / GRAPHIC DESIGNER</h2>
+                <h2 style={{ color: 'orange', marginTop: '-85px', fontSize:'60px'}}>WEB / GRAPHIC DESIGNER</h2>
               </div>
 
 
