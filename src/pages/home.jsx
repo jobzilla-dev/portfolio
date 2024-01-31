@@ -17,10 +17,21 @@ function home() {
 
   return (
 
-    <div className="container">
-      {/* <Lottie options={defaultOptions}
-              height={400}
-              width={400}/> */}
+<div className="asdasd">
+<div className="loader">
+      <div className="loader1">
+      <Lottie options={defaultOptions}
+              height={100}
+              width={100}/>
+      </div>
+      </div>
+
+      <div className="container">
+
+      
+
+        <div className="old">
+      
       <div className="home">
 
         <nav class="navbar navbar-expand-lg">
@@ -50,7 +61,15 @@ function home() {
 
         </div>
       </div>
+
+      
     </div>
+    
+    </div>
+</div>
+    
+
+    
   )
 }
 

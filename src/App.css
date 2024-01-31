@@ -4,7 +4,19 @@
 
 body {
   font-family: 'Montserrat' !important;
-  /* background-color: #1E1E1E !important; */
+  background-color: #1E1E1E !important;
+}
+
+.asdasd {
+  width: -webkit-fill-available;
+}
+
+.loader1 {
+  /* display: flex; */
+  height: 100vh;
+  display: flex;
+  background: black;
+  align-items: center;
 }
 
 /* .App-logo {
