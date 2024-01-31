@@ -1,12 +1,26 @@
 import React from 'react'
 import '../assets/css/style.css'
+import Lottie from 'react-lottie';
+import * as animationData from '../assets/json/butt.json'
 import me from '../assets/img/jobz123.png';
 
 function home() {
+
+  const defaultOptions = {
+    loop: true,
+    autoplay: true, 
+    animationData: animationData,
+    rendererSettings: {
+      preserveAspectRatio: 'xMidYMid slice'
+    }
+  };
+
   return (
 
     <div className="container">
-    
+      {/* <Lottie options={defaultOptions}
+              height={400}
+              width={400}/> */}
       <div className="home">
 
         <nav class="navbar navbar-expand-lg">
