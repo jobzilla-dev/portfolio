@@ -7,12 +7,22 @@ body {
   background-color: #1E1E1E !important;
 }
 
-.asdasd {
-  width: -webkit-fill-available;
+.container {
+  /* width: -webkit-fill-available; */
 }
 
-.loader1 {
-  /* display: flex; */
+.loader-relative {
+  position: relative;
+}
+
+.loader {
+  display: none !important;
+  position: fixed;
+  z-index: 9999999999999999999999 !important;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
   height: 100vh;
   display: flex;
   background: black;
