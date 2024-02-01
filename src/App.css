@@ -23,7 +23,7 @@ body {
 }
 
 .loader {
-  display: none !important;
+  /* display: none !important; */
   position: fixed;
   z-index: 9999999999999999999999 !important;
   top: 0;

@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import '../assets/css/style.css'
-import Lottie from 'react-lottie';
+// import Lottie from 'react-lottie';
 import * as animationData from '../assets/json/butt.json'
 import logo from '../assets/img/jobz-w.png';
 import "../assets/fonts/Karantina-Regular.ttf";
@@ -19,13 +19,13 @@ function Home() {
   return (
 
     <div className="container">
-      <div className="loader-relative">
+      {/* <div className="loader-relative">
         <div className="loader">
           <Lottie options={defaultOptions}
             height={100}
             width={100} />
         </div>
-      </div>
+      </div> */}
 
       <div className="container">
 
