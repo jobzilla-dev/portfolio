@@ -18,7 +18,7 @@ function App() {
   return (
     <>
       {isLoading ? <Lottie /> :
-        <div className='container1'>
+        // <div className='container1'>
 
           <div className="App">
 
@@ -28,7 +28,7 @@ function App() {
 
             </header>
           </div>
-        </div>
+        // </div>
       }
 
 

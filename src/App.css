@@ -3,19 +3,25 @@
 }
 
 body {
-  /* font-family: 'Karan'; */
-  background-color: #1E1E1E !important;
+  background: url("/src/assets/img/JOBZ2BG.png");
+  background-size: cover;
 }
 
 @font-face {
-  font-family: "Karan";   /*Can be any text*/
-  src: local("Karantina-Regular"),
-    url("/src/assets/fonts/Karantina-Regular.ttf") format("truetype");
+  font-family: "aron";   /*Can be any text*/
+  src: local("aron-wergel.regular"),
+    url("/src/assets/fonts/aron-wergel.regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "bebas";   /*Can be any text*/
+    src: local("BebasNeue-Regular"),
+      url("/src/assets/fonts/BebasNeue-Regular.ttf") format("truetype");
 }
 
 .container {
   /* width: -webkit-fill-available; */
-  font-family: 'Karan';
+  font-family: 'aron';
 }
 
 .loader-relative {
@@ -63,9 +69,10 @@ body {
   color: #61dafb;
 }
 
-h1 {
-  /* color: #292929; */
-  font-size: 230px !important;
+h1 { 
+  font-size: 2.5rem;
+  -webkit-text-stroke: 1.5px #A2E32F;
+  color: transparent;
 }
 
 .jobz-photo {
@@ -90,19 +97,33 @@ h1 {
   justify-content: space-between;
 } */
 
-.home {
+/* .home {
   width: -webkit-fill-available;
-}
+} */
 
 .home-content {
   height: 88vh;
   display: flex;
-  align-items: end;
+  justify-content: center;
+  
+}
+
+.land-txt {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 50px;
 }
 
 .nav-link {
-  font-size: 28px !important;
-  color: white !important;
+  font-size: 24px !important;
+  color: #CFD2E3 !important;
+  padding: 0px 24px !important;
+}
+
+.nav-link:hover {
+  font-size: 24px !important;
+  color: #A2E32F !important;
   padding: 0px 24px !important;
 }
 
@@ -117,12 +138,20 @@ h1 {
 }
 
 a.nav-link-hire {
-  font-size: 28px;
-  padding: 2px 8px;
-  color: orange;
+  font-size: 24px;
+  color: transparent;
+  -webkit-text-stroke: 1px #A2E32F;
   text-decoration: unset;
   margin-left: 10px;
-  border: solid 2px;
+}
+
+a.nav-link-hire:hover {
+  font-size: 24px;
+  color: #A2E32F;
+  -webkit-text-stroke: unset;
+  /* transition: all 0.5s; */
+  text-decoration: unset;
+  margin-left: 10px;
 }
 
 .navbar-nav {
@@ -132,6 +161,16 @@ a.nav-link-hire {
 
 nav.navbar.navbar-expand-lg {
   padding: 24px 0px;
+}
+
+.low-bord {
+  display: flex;
+  justify-content: space-between;
+}
+
+.text {
+  font-size: 30px;
+  color: #A2E32F;
 }
 
 @keyframes App-logo-spin {
