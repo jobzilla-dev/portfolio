@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f13dd7ec.css",
-    "main.js": "/static/js/main.b891f6ab.js",
+    "main.css": "/static/css/main.fac6ce1e.css",
+    "main.js": "/static/js/main.bab04db2.js",
     "static/js/787.d39f8387.chunk.js": "/static/js/787.d39f8387.chunk.js",
     "static/media/JOBZ2BG.png": "/static/media/JOBZ2BG.1b6242019b5bee749bfa.png",
     "static/media/me-photo.png": "/static/media/me-photo.98fa3d7249996e091a0e.png",
@@ -9,13 +9,14 @@
     "static/media/Karantina-Regular.ttf": "/static/media/Karantina-Regular.9844915e3fa387c180fe.ttf",
     "static/media/aron-wergel.regular.ttf": "/static/media/aron-wergel.regular.36cdc5db5e42ce67437a.ttf",
     "static/media/jobz-w.png": "/static/media/jobz-w.bf14240bb9676367fdc7.png",
+    "static/media/about-border.png": "/static/media/about-border.37465d5abde5357d88c0.png",
     "index.html": "/index.html",
-    "main.f13dd7ec.css.map": "/static/css/main.f13dd7ec.css.map",
-    "main.b891f6ab.js.map": "/static/js/main.b891f6ab.js.map",
+    "main.fac6ce1e.css.map": "/static/css/main.fac6ce1e.css.map",
+    "main.bab04db2.js.map": "/static/js/main.bab04db2.js.map",
     "787.d39f8387.chunk.js.map": "/static/js/787.d39f8387.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f13dd7ec.css",
-    "static/js/main.b891f6ab.js"
+    "static/css/main.fac6ce1e.css",
+    "static/js/main.bab04db2.js"
   ]
 }

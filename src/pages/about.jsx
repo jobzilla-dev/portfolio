@@ -3,6 +3,7 @@ import '../assets/css/style.css'
 // import Lottie from 'react-lottie';
 import * as animationData from '../assets/json/butt.json'
 import border from '../assets/img/border.png';
+import aborder from '../assets/img/about-border.png';
 import dp from '../assets/img/me-photo.png';
 import ai from '../assets/img/skills/illustrator.png';
 import pr from '../assets/img/skills/premiere.png';
@@ -60,8 +61,11 @@ function About() {
                     </div>
                     </div>     
                 </div>
+                
 
               </div>
+
+              <img src={aborder} className="abt-brder" alt="abt"/>
               
             </div>
 

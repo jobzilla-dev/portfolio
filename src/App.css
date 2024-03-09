@@ -223,6 +223,13 @@ nav.navbar.navbar-expand-lg {
   margin-right: 40px;
 }
 
+img.abt-brder {
+  position: absolute;
+  right: 0px;
+  width: 950px;
+  z-index: -1;
+}
+
 
 @keyframes App-logo-spin {
   from {
