@@ -38,6 +38,7 @@ function About() {
 
 
             <div className="about-content">
+            {/* <img src={aborder} className="abt-brder" alt="abt"/> */}
                 <img src={dp} className="photo" alt="dp"/>
               {/* <div className="photooo"><img src={me} className="jobz-photo" alt="logo" /></div> */}
               <div className="about-txt">
@@ -65,7 +66,7 @@ function About() {
 
               </div>
 
-              <img src={aborder} className="abt-brder" alt="abt"/>
+              
               
             </div>
 
