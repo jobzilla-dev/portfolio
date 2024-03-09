@@ -61,10 +61,10 @@ function Home() {
               
 
             </div>
-            <div className="low-bord">
+            {/* <div className="low-bord">
               <div className="text">ABoUT ME</div>
               <img src={border} className="line" style={{ width: '1070px', objectFit: 'contain'}} alt="logo" />
-              </div>
+              </div> */}
           </div>
 
 

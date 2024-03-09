@@ -5,6 +5,7 @@ import './App.css';
 import "./assets/fonts/Karantina-Regular.ttf";
 import Lottie from './components/lottie/lottie';
 import Home from './pages/home';
+import About from './pages/about';
 
 function App() {
   const [isLoading, setIsLoading] = useState(true);
@@ -25,6 +26,8 @@ function App() {
             <header className="App-header">
 
               <Home />
+
+              <About />
 
             </header>
           </div>
