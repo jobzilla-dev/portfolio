@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import '../assets/css/style.css'
+import '../assets/css/project.css'
 // import Lottie from 'react-lottie';
 import * as animationData from '../assets/json/butt.json'
 import border from '../assets/img/border.png';
@@ -64,11 +64,28 @@ function About() {
                 </div>
                 
 
-              </div>
-
-              
-              
+              </div> 
             </div>
+
+            {/* PROJECTS */}
+
+            {/* <div className="gallery">
+                <img src={ai} alt="a house on a mountain"/>
+                <img src={ai} alt="sime pink flowers"/>
+                <img src={ai} alt="big rocks with some trees"/>
+                <img src={ai} alt="a waterfall, a lot of tree and a great view from the sky"/>
+                <img src={ai} alt="a cool landscape"/>
+                <img src={ai} alt="inside a town between two big buildings"/>
+                <img src={ai} alt="a great view of the sea above the mountain"/>
+            </div> */}
+
+
+            
+
+
+
+
+
 
             
 
