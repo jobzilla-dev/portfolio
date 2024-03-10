@@ -165,6 +165,7 @@ nav.navbar.navbar-expand-lg {
 }
 
 .text {
+  padding: 0px 20px;
   font-size: 30px;
   color: #A2E32F;
 }

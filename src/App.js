@@ -6,6 +6,7 @@ import "./assets/fonts/Karantina-Regular.ttf";
 import Lottie from './components/lottie/lottie';
 import Home from './pages/home';
 import About from './pages/about';
+import Project from './pages/project.jsx';
 
 function App() {
   const [isLoading, setIsLoading] = useState(true);
@@ -28,6 +29,8 @@ function App() {
               <Home />
 
               <About />
+
+              <Project />
 
             </header>
           </div>
