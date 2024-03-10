@@ -17,6 +17,7 @@ function Home() {
     }
   };
 
+
   return (
 
     <div className="container">
@@ -43,7 +44,7 @@ function Home() {
                   <div class="navbar-nav">
                     <a class="nav-link active" aria-current="page" href="#">HoME</a>
                     <a class="nav-link" href="#">ABoUT ME</a>
-                    <a class="nav-link" href="#">PRoJECTS</a>
+                    <a class="nav-link" href="#">ABoUT ME</a>
                     <a class="nav-link-hire" href="#">hIRE ME</a>
                   </div>
                 </div>

@@ -17,6 +17,15 @@ function App() {
     }, 1000);
   }, [])
 
+  const handleClickScroll = () => {
+    const element = document.getElementById('id-ng-element-mo');
+    if (element) {
+      // 👇 Will scroll smoothly to the top of the next section
+      element.scrollIntoView({ behavior: 'smooth' });
+    }
+  };
+
+
   return (
     <>
       {isLoading ? <Lottie /> :
@@ -25,7 +34,9 @@ function App() {
           <div className="App">
 
             <header className="App-header">
-
+            {/* <button className="btn-scroll" onClick={handleClickScroll}>
+              Scroll Down
+            </button> */}
               <Home />
 
               <About />

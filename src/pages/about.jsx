@@ -92,8 +92,8 @@ function About() {
 
           </div>
 
-
     </div>
+    
 
   
 
