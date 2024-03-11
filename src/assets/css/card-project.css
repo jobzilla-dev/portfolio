@@ -35,7 +35,11 @@
   .ag-courses-item_link {
     display: block;
     padding: 30px 20px;
-    background-color: #52277b;
+    /* background-color: #303030; */
+    background: url("/src/assets/img/card-bg.png");
+    border-radius: 10px;
+    border:#A2E32F solid;
+    background-size: contain;
     text-decoration: unset;
     overflow: hidden;
   
@@ -44,12 +48,13 @@
   .ag-courses-item_link:hover,
   .ag-courses-item_link:hover .ag-courses-item_date {
     text-decoration: none;
-    color: #FFF;
+    color: #303030;
   }
   .ag-courses-item_link:hover .ag-courses-item_bg {
     -webkit-transform: scale(10);
     -ms-transform: scale(10);
     transform: scale(10);
+    color: #303030;
   }
   .ag-courses-item_title {
     min-height: 87px;
@@ -65,6 +70,10 @@
   
     z-index: 2;
     position: relative;
+  }
+
+  .ag-courses-item_title:hover {
+    color: #303030;
   }
   .ag-courses-item_date-box {
     font-size: 18px;

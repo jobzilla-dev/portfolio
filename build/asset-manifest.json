@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.03e6fbb0.css",
+    "main.css": "/static/css/main.4471a018.css",
     "main.js": "/static/js/main.84395fb8.js",
     "static/js/787.d39f8387.chunk.js": "/static/js/787.d39f8387.chunk.js",
     "static/media/JOBZ2BG.png": "/static/media/JOBZ2BG.1b6242019b5bee749bfa.png",
+    "static/media/card-bg.png": "/static/media/card-bg.44d5cf87c733e32e0072.png",
     "static/media/me-photo.png": "/static/media/me-photo.98fa3d7249996e091a0e.png",
     "static/media/BebasNeue-Regular.ttf": "/static/media/BebasNeue-Regular.c501e16fa3f0781f9d73.ttf",
     "static/media/Karantina-Regular.ttf": "/static/media/Karantina-Regular.9844915e3fa387c180fe.ttf",
@@ -11,12 +12,12 @@
     "static/media/jobz-w.png": "/static/media/jobz-w.bf14240bb9676367fdc7.png",
     "static/media/about-border.png": "/static/media/about-border.37465d5abde5357d88c0.png",
     "index.html": "/index.html",
-    "main.03e6fbb0.css.map": "/static/css/main.03e6fbb0.css.map",
+    "main.4471a018.css.map": "/static/css/main.4471a018.css.map",
     "main.84395fb8.js.map": "/static/js/main.84395fb8.js.map",
     "787.d39f8387.chunk.js.map": "/static/js/787.d39f8387.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.03e6fbb0.css",
+    "static/css/main.4471a018.css",
     "static/js/main.84395fb8.js"
   ]
 }
