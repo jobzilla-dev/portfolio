@@ -241,6 +241,11 @@ img.abt-brder {
   z-index: -1;
 }
 
+/* PROJECT CONTENT */
+
+.project-content {
+  height: -webkit-fill-available;
+}
 
 @keyframes App-logo-spin {
   from {
