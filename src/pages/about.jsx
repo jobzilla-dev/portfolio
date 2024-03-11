@@ -23,7 +23,7 @@ function About() {
 
   return (
 
-    <div className="container">
+    <div className="container section-container" id='about'>
 
 
 

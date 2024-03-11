@@ -6,6 +6,16 @@ body {
   background: url("/src/assets/img/JOBZ2BG.png");
   background-size: cover;
   background-attachment: fixed;
+  
+}
+
+html {
+  scroll-snap-type: y mandatory;
+}
+
+.section-container {
+  scroll-snap-align: start;
+  /* scroll-snap-stop: always; */
 }
 
 @font-face {

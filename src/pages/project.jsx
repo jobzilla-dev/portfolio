@@ -18,7 +18,7 @@ function Project() {
 
   return (
 
-    <div className="container">
+    <div className="container section-container" id='projects'>
 
 
 
@@ -108,7 +108,7 @@ function Project() {
                         <div class="ag-courses-item_bg"></div>
 
                         <div class="ag-courses-item_title">
-                        Motion Design
+                        T-SHIRT Design
                         </div>
 
                         {/* <div class="ag-courses-item_date-box">
@@ -131,32 +131,7 @@ function Project() {
                     </a>
                     </div>
 
-                    <div class="ag-courses_item">
-                    <a href="#" class="ag-courses-item_link">
-                        <div class="ag-courses-item_bg">
-                        </div>
-                        <div class="ag-courses-item_title">
-                        TSHIRT DESIGNS
-                        </div>
-                    </a>
-                    </div>
-
-                    <div class="ag-courses_item">
-                    <a href="#" class="ag-courses-item_link">
-                        <div class="ag-courses-item_bg"></div>
-
-                        <div class="ag-courses-item_title">
-                        Interior Design
-                        </div>
-
-                        {/* <div class="ag-courses-item_date-box">
-                        Start:
-                        <span class="ag-courses-item_date">
-                            31.10.2022
-                        </span>
-                        </div> */}
-                    </a>
-                    </div>
+                    
 
                 </div>
                 </div>

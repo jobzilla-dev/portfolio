@@ -20,7 +20,7 @@ function Home() {
 
   return (
 
-    <div className="container">
+    <div className="container section-container">
       {/* <div className="loader-relative">
         <div className="loader">
           <Lottie options={defaultOptions}
@@ -43,8 +43,8 @@ function Home() {
                 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                   <div class="navbar-nav">
                     <a class="nav-link active" aria-current="page" href="#">HoME</a>
-                    <a class="nav-link" href="#">ABoUT ME</a>
-                    <a class="nav-link" href="#">ABoUT ME</a>
+                    <a class="nav-link" href="#about">ABoUT ME</a>
+                    <a class="nav-link" href="#projects">PRoJECTS</a>
                     <a class="nav-link-hire" href="#">hIRE ME</a>
                   </div>
                 </div>
