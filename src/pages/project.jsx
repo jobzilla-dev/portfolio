@@ -5,6 +5,7 @@ import * as animationData from '../assets/json/butt.json'
 import border from '../assets/img/border.png';
 import aborder from '../assets/img/about-border.png';
 
+
 function Project() {
 
   const defaultOptions = {
@@ -135,6 +136,7 @@ function Project() {
 
                 </div>
                 </div>
+
             </div>
 
 
