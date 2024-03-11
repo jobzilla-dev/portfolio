@@ -245,6 +245,8 @@ img.abt-brder {
 
 .project-content {
   height: -webkit-fill-available;
+  display: flex;
+  align-items: center;
 }
 
 @keyframes App-logo-spin {
