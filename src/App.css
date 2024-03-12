@@ -145,7 +145,7 @@ h1 {
 } */
 
 .home-content {
-  height: 88vh;
+  height: 78%;
   display: flex;
   justify-content: center;
   
@@ -155,7 +155,7 @@ h1 {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin-bottom: 50px;
+  /* margin-bottom: 50px; */
 }
 
 .nav-link {
@@ -225,7 +225,8 @@ nav.navbar.navbar-expand-lg {
 }
 
 .about-content {
-  height: -webkit-fill-available;
+  /* height: -webkit-fill-available; */
+  height: 90%;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -281,7 +282,8 @@ img.abt-brder {
 /* PROJECT CONTENT */
 
 .project-content {
-  height: -webkit-fill-available;
+  /* height: -webkit-fill-available; */
+  height: 90%;
   display: flex;
   align-items: center;
 }
