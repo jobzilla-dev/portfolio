@@ -7,6 +7,8 @@ import Lottie from './components/lottie/lottie';
 import Home from './pages/home';
 import About from './pages/about';
 import Project from './pages/project.jsx';
+import Footer from './pages/footer.jsx';
+
 
 function App() {
   const [isLoading, setIsLoading] = useState(true);
@@ -37,6 +39,7 @@ function App() {
             {/* <button className="btn-scroll" onClick={handleClickScroll}>
               Scroll Down
             </button> */}
+            <Footer />
               <Home />
 
               <About />

@@ -6,6 +6,7 @@ import logo from '../assets/img/jobz-w.png';
 import border from '../assets/img/border.png';
 import "../assets/fonts/Karantina-Regular.ttf";
 
+
 function Home() {
 
   const defaultOptions = {
@@ -66,6 +67,8 @@ function Home() {
               <div className="text">ABoUT ME</div>
               <img src={border} className="line" style={{ width: '1070px', objectFit: 'contain'}} alt="logo" />
               </div> */}
+              
+      
           </div>
 
 

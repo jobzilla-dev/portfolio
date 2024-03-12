@@ -39,6 +39,22 @@ html {
   position: relative;
 }
 
+.footer {
+  display: flex;
+  flex-direction: column;
+}
+
+.container.footer-section {
+  display: flex;
+  align-items: flex-end;
+  /* flex-direction: column; */
+  /* flex-wrap: wrap; */
+  position: fixed;
+  z-index: 1000000000000000000000;
+
+  height: 100vh;
+}
+
 .loader {
   /* display: none !important; */
   position: fixed;
