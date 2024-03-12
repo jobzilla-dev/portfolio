@@ -32,6 +32,7 @@
   
     border-radius: 10px;
   }
+
   .ag-courses-item_link {
     display: block;
     padding: 30px 20px;
@@ -45,6 +46,8 @@
   
     position: relative;
   }
+
+
   .ag-courses-item_link:hover,
   .ag-courses-item_link:hover .ag-courses-item_date {
     text-decoration: none;
@@ -106,6 +109,8 @@
     -o-transition: all .5s ease;
     transition: all .5s ease;
   }
+
+
   .ag-courses_item:nth-child(2n) .ag-courses-item_bg {
     background-color: #A2E32F;
   }
