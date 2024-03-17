@@ -288,6 +288,32 @@ img.abt-brder {
   align-items: center;
 }
 
+/* HIRE-ME CONTENT */
+
+.hire-me {
+  height: 100vh;
+  padding: 35px 0px;
+}
+
+.hire-content {
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.hire-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+span.lets , .together {
+  -webkit-text-stroke: 3px #A2E32F;
+  color: transparent;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

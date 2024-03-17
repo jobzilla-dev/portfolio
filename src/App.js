@@ -7,6 +7,7 @@ import Lottie from './components/lottie/lottie';
 import Home from './pages/home';
 import About from './pages/about';
 import Project from './pages/project.jsx';
+import Hire from './pages/jobz.jsx';
 import Footer from './pages/footer.jsx';
 
 
@@ -45,6 +46,8 @@ function App() {
               <About />
 
               <Project />
+
+              <Hire />
 
             </header>
           </div>

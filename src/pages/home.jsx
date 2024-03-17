@@ -46,7 +46,7 @@ function Home() {
                     <a class="nav-link active" aria-current="page" href="#">HoME</a>
                     <a class="nav-link" href="#about">ABoUT ME</a>
                     <a class="nav-link" href="#projects">PRoJECTS</a>
-                    <a class="nav-link-hire" href="#">hIRE ME</a>
+                    <a class="nav-link-hire" href="#hire">hIRE ME</a>
                   </div>
                 </div>
               </div>
