@@ -56,7 +56,7 @@ function Home() {
               {/* <div className="photooo"><img src={me} className="jobz-photo" alt="logo" /></div> */}
               <div className="land-txt">
                 <h2 className="name" style={{ color: '#CFD2E3', marginBottom: '-26px', fontSize:'64px', textAlign:'start' , fontFamily:'bebas'}}>JOEBEL MINIANO</h2>
-                <h1 style={{ fontSize: '148px' }}>PoRTFoLiOw</h1><br></br>
+                <h1 style={{ fontSize: '148px' }}>PoRTFoLiOW</h1><br></br>
                 <h2 className="position" style={{ color: '#CFD2E3', marginTop: '-85px', fontSize:'64px', textAlign:'end', fontFamily:'bebas'}}>WEB / GRAPHIC DESIGNER</h2>
               </div>
 
