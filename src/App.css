@@ -224,6 +224,8 @@ nav.navbar.navbar-expand-lg {
   padding: 35px 0px;
 }
 
+
+
 .about-content {
   /* height: -webkit-fill-available; */
   height: 90%;
@@ -321,4 +323,12 @@ span.lets , .together {
   to {
     transform: rotate(360deg);
   }
+}
+
+
+
+.gallery-s {
+  /* height: 100vh; */
+  padding: 35px 0px;
+
 }
