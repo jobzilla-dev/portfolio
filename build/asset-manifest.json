@@ -1,9 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.42970ae0.css",
-    "main.js": "/static/js/main.0304387b.js",
+    "main.css": "/static/css/main.994189f9.css",
+    "main.js": "/static/js/main.a9bb5b65.js",
     "static/js/787.d39f8387.chunk.js": "/static/js/787.d39f8387.chunk.js",
     "static/media/JOBZ2BG.png": "/static/media/JOBZ2BG.1b6242019b5bee749bfa.png",
+    "static/media/20.png": "/static/media/20.c2b3f7f7a0d92d835e04.png",
+    "static/media/15.png": "/static/media/15.1d026c84230fe0e52cd8.png",
+    "static/media/35.png": "/static/media/35.b6d721ab635b0e4c5e72.png",
+    "static/media/34.png": "/static/media/34.084a284de3be35c0d22e.png",
+    "static/media/7.png": "/static/media/7.5444ca0f49ab6b0546cd.png",
+    "static/media/40.png": "/static/media/40.52131fbc8a410668f50e.png",
+    "static/media/16.png": "/static/media/16.36c72bb5f2d4d2672375.png",
+    "static/media/6.png": "/static/media/6.fe981b4b5a3f3467cd56.png",
+    "static/media/17.png": "/static/media/17.db404d10959c17c7c8dd.png",
+    "static/media/4.png": "/static/media/4.549c81b5363671457882.png",
+    "static/media/54.png": "/static/media/54.2b5ae54fe8abe60224d3.png",
+    "static/media/49.png": "/static/media/49.3259e51d874af3a84555.png",
+    "static/media/10.png": "/static/media/10.66d90391be50ed4c213d.png",
+    "static/media/53.png": "/static/media/53.358c280d89ca2c4afdd7.png",
+    "static/media/9.png": "/static/media/9.ec0a29353f6da395c546.png",
+    "static/media/5.png": "/static/media/5.fb530e18f82da0ce8572.png",
+    "static/media/11.png": "/static/media/11.667e719914bddc79c794.png",
+    "static/media/18.png": "/static/media/18.25de033e1310bfd73a20.png",
+    "static/media/14.png": "/static/media/14.591ee70e800fd20b766b.png",
+    "static/media/51.png": "/static/media/51.d6d9c7b25706bf6d5c21.png",
     "static/media/card-bg.png": "/static/media/card-bg.44d5cf87c733e32e0072.png",
     "static/media/me-photo.png": "/static/media/me-photo.98fa3d7249996e091a0e.png",
     "static/media/BebasNeue-Regular.ttf": "/static/media/BebasNeue-Regular.c501e16fa3f0781f9d73.ttf",
@@ -12,12 +32,12 @@
     "static/media/jobz-w.png": "/static/media/jobz-w.bf14240bb9676367fdc7.png",
     "static/media/about-border.png": "/static/media/about-border.37465d5abde5357d88c0.png",
     "index.html": "/index.html",
-    "main.42970ae0.css.map": "/static/css/main.42970ae0.css.map",
-    "main.0304387b.js.map": "/static/js/main.0304387b.js.map",
+    "main.994189f9.css.map": "/static/css/main.994189f9.css.map",
+    "main.a9bb5b65.js.map": "/static/js/main.a9bb5b65.js.map",
     "787.d39f8387.chunk.js.map": "/static/js/787.d39f8387.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.42970ae0.css",
-    "static/js/main.0304387b.js"
+    "static/css/main.994189f9.css",
+    "static/js/main.a9bb5b65.js"
   ]
 }
