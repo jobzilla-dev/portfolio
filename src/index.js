@@ -8,6 +8,8 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import TestSeparatePage from './pages/test-separate-page';
+import Gallery from './pages/gallery';
+import Webdesign from './pages/web-design';
 
 const router = createBrowserRouter([
   {
@@ -15,8 +17,12 @@ const router = createBrowserRouter([
     element: <App />,
   },
   {
-    path: "/test",
-    element: <TestSeparatePage/>,
+    path: "/gallery",
+    element: <Gallery/>,
+  },
+  {
+    path: "/web-design",
+    element: <Webdesign/>,
   },
 ]);
 

@@ -8,7 +8,6 @@ import Home from './pages/home';
 import About from './pages/about';
 import Project from './pages/project.jsx';
 import Hire from './pages/jobz.jsx';
-import Gallery from './pages/gallery.jsx';
 import Footer from './pages/footer.jsx';
 
 
@@ -50,7 +49,7 @@ function App() {
 
               <Hire />
 
-              <Gallery />
+              {/* <Gallery /> */}
 
             </header>
           </div>

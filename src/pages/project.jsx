@@ -4,6 +4,7 @@ import '../assets/css/card-project.css'
 import * as animationData from '../assets/json/butt.json'
 import border from '../assets/img/border.png';
 import aborder from '../assets/img/about-border.png';
+import { Link } from "react-router-dom";
 
 
 function Project() {
@@ -54,11 +55,11 @@ function Project() {
                     </div>
 
                     <div class="ag-courses_item">
-                    <a href="#" class="ag-courses-item_link">
+                    <Link to="/web-design" class="ag-courses-item_link">
                         <div class="ag-courses-item_bg"></div>
 
                         <div class="ag-courses-item_title">
-                        UX/UI Web-Design&#160;+ Mobile Design
+                        UX/UI Web-Design&#160;
                         </div>
 
                         {/* <div class="ag-courses-item_date-box">
@@ -67,11 +68,11 @@ function Project() {
                             04.11.2022
                         </span>
                         </div> */}
-                    </a>
+                    </Link>
                     </div>
 
                     <div class="ag-courses_item">
-                    <a href='#' class="ag-courses-item_link">
+                    <Link to="/gallery" class="ag-courses-item_link">
                         <div class="ag-courses-item_bg"></div>
 
                         <div class="ag-courses-item_title">
@@ -84,7 +85,7 @@ function Project() {
                             04.11.2022
                         </span>
                         </div> */}
-                    </a>
+                    </Link>
                     </div>
 
                     <div class="ag-courses_item">
