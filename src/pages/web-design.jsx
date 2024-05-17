@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import '../assets/css/style.css'
+// import '../assets/css/style.css'
 import '../assets/css/gal.css'
 // import Lottie from 'react-lottie';
 import * as animationData from '../assets/json/butt.json'
@@ -9,22 +9,22 @@ import "../assets/fonts/Karantina-Regular.ttf";
 import border3 from '../assets/img/f-border.png';
 import { Link } from "react-router-dom";
 
-import w1 from '../assets/img/web-des/1.png';
-import w2 from '../assets/img/web-des/2.png';
-import w3 from '../assets/img/web-des/3.png';
-import w4 from '../assets/img/web-des/4.png';
-import w5 from '../assets/img/web-des/5.png';
-import w6 from '../assets/img/web-des/6.png';
-import w7 from '../assets/img/web-des/7.png';
-import w8 from '../assets/img/web-des/8.png';
-import w9 from '../assets/img/web-des/9.png';
-import w10 from '../assets/img/web-des/10.png';
-import w11 from '../assets/img/web-des/11.png';
-import w12 from '../assets/img/web-des/12.png';
-import w13 from '../assets/img/web-des/13.png';
-import w14 from '../assets/img/web-des/14.png';
-import w15 from '../assets/img/web-des/15.png';
-import w16 from '../assets/img/web-des/16.png';
+import w1 from '../assets/img/web-des/1.webp';
+import w2 from '../assets/img/web-des/2.webp';
+import w3 from '../assets/img/web-des/3.webp';
+import w4 from '../assets/img/web-des/4.webp';
+import w5 from '../assets/img/web-des/5.webp';
+import w6 from '../assets/img/web-des/6.webp';
+import w7 from '../assets/img/web-des/7.webp';
+import w8 from '../assets/img/web-des/8.webp';
+import w9 from '../assets/img/web-des/9.webp';
+import w10 from '../assets/img/web-des/10.webp';
+import w11 from '../assets/img/web-des/11.webp';
+import w12 from '../assets/img/web-des/12.webp';
+import w13 from '../assets/img/web-des/13.webp';
+import w14 from '../assets/img/web-des/14.webp';
+import w15 from '../assets/img/web-des/15.webp';
+import w16 from '../assets/img/web-des/16.webp';
 
 
 
@@ -37,14 +37,14 @@ import w16 from '../assets/img/web-des/16.png';
 
 function Webdesign() {
 
-    const defaultOptions = {
-        loop: true,
-        autoplay: true,
-        animationData: animationData,
-        rendererSettings: {
-            preserveAspectRatio: 'xMidYMid slice'
-        }
-    };
+    // const defaultOptions = {
+    //     loop: true,
+    //     autoplay: true,
+    //     animationData: animationData,
+    //     rendererSettings: {
+    //         preserveAspectRatio: 'xMidYMid slice'
+    //     }
+    // };
 
 
 
